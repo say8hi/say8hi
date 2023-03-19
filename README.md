@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @say8hi
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning python
+- 🌱 I have about 2-3 years experience working with python
 - 📫 How to reach me: https://t.me/say8hi or maks.mir@yahoo.com
 
 <!---
