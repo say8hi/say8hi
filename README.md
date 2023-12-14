@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @say8hi
-- 👀 I’m interested in Machine Learning
-- 🌱 I have about 2-3 years experience working with python
-- 📫 How to reach me: https://t.me/say8hi or maks.mir@yahoo.com
-
-<!---
-say8hi/say8hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my name is Maksim Mironov.
+I've started learning programming since 2019-2020.
+I'm interested in backend development.
+My first programming language is Python and I also want to learn Go lang.
+In the future I want to consider opportunity to become a DevOps.
