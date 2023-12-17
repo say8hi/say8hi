@@ -3,4 +3,3 @@
 2. I've started learning programming since 2019-2020.
 3. I'm interested in backend development.
 4. My first programming language is Python and I also want to learn Go lang.
-5. In the future I want to consider opportunity to become a DevOps.
